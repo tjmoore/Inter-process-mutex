@@ -11,3 +11,4 @@ Release/
 obj/
 *.suo
 *.ReSharper.user
+/.vs

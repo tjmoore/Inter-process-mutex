@@ -2,6 +2,7 @@
 using System.Threading;
 using InterProcessMutex;
 using NUnit.Framework;
+// ReSharper disable ExceptionNotDocumented
 
 namespace InterProcessMutexTests
 {
